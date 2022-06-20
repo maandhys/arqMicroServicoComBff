@@ -1,0 +1,15 @@
+{
+    "pedidos": {
+        "id": 1,
+        "owner": "nayara",
+        "produto": "iphone 13",
+        "id_produto": 1
+    },
+    {
+        "id": 1,
+        "owner": "nayara",
+        "produto": "blusa",
+        "id_produto": 2
+    }
+   
+}
